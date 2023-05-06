@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ASii</string>
+    <string-array name="Q1">
+        <item>1988</item>
+        <item>1948</item>
+        <item>1984</item>
+    </string-array>
+
+    <string-array name="Q2">
+        <item>1964</item>
+        <item>1967</item>
+        <item>1968</item>
+    </string-array>
+
+    <string-array name="q3">
+        <item>2001</item>
+        <item>2003</item>
+        <item>2000</item>
+    </string-array>
+</resources>
